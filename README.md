@@ -45,7 +45,9 @@ description: 欢迎来到香港大学！
 
 ## 最后……来听首歌吧！
 
-{% embed url="https://www.youtube.com/watch?v=uwU5rIWFCSE" %}
+[香港大学百周年校庆主题曲 Brighten Me with Virtues《明我以德》\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1n741157r2)
+
+{% embed url="https://www.bilibili.com/video/BV1n741157r2" %}
 
 > **香港大学百周年校庆主题曲《明我以德》**\
 > \
