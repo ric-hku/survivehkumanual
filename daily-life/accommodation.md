@@ -4,7 +4,7 @@
 
 [如何优雅地在外租房 （下）](https://mp.weixin.qq.com/s?__biz=MzU4OTc1NDkyNw==\&mid=2247503017\&idx=1\&sn=035941d8107286c74381a9ba7e9208b1\&scene=21#wechat_redirect)
 
-[如何优雅地接受Readmission offe](https://mp.weixin.qq.com/s?__biz=MzU4OTc1NDkyNw==\&mid=2247507677\&idx=1\&sn=9d502f85eea92b6e21538d33b58fc319\&scene=21#wechat_redirect)
+[如何优雅地接受Readmission offer](https://mp.weixin.qq.com/s?__biz=MzU4OTc1NDkyNw==\&mid=2247507677\&idx=1\&sn=9d502f85eea92b6e21538d33b58fc319\&scene=21#wechat_redirect)
 
 [如何优雅地 (不被) quit hall](https://mp.weixin.qq.com/s?__biz=MzU4OTc1NDkyNw==\&mid=2247507677\&idx=2\&sn=08ec4e9c25a28ca56cb752248cfd2983\&scene=21#wechat_redirect)
 

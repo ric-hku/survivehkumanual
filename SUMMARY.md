@@ -1,15 +1,15 @@
 # Table of contents
 
-* [序](README.md)
-* [更新日志](readme-1.md)
+* [首页](README.md)
+  * [更新日志](readme/readme-1.md)
 
 ## Freshman Guide
 
+* [RIC 介绍](freshman-guide/ric-intro/README.md)
+  * [RIC 使用指南](freshman-guide/ric-intro/ric-guide.md)
 * [新生必读](freshman-guide/must-read/README.md)
-  * [RIC 介绍](freshman-guide/must-read/ric-intro.md)
-  * [RIC 使用指南](freshman-guide/must-read/ric-guide.md)
   * [入学重要事项办理时间表](freshman-guide/must-read/timeline.md)
-  * [拿到正式 offer 后要做什么](freshman-guide/must-read/post-offer-guide.md)
+  * [拿到正式 Offer 后要做什么](freshman-guide/must-read/post-offer-guide.md)
 * [签证办理](freshman-guide/visa/README.md)
   * [2025 签证申请须知](freshman-guide/visa/visa-application-notice-2025.md)
   * [2025 签注办理指南](freshman-guide/visa/visa-guide-2025.md)
@@ -21,13 +21,12 @@
   * [选 Hall 综合指南](freshman-guide/hall-selection/comprehensive-hall-guide.md)
   * [Hall Charges](freshman-guide/hall-selection/hall-charges.md)
   * [各 hall 详细介绍](freshman-guide/hall-selection/hall-details.md)
-* [后续入学流程 & 证件办理](freshman-guide/registration/README.md)
-  * [Master Registration 指南](freshman-guide/registration/master-registration-guide.md)
-  * [如何网上预约香港身份证办理及预填申请表格](freshman-guide/registration/hkid-application-guide.md)
+* [Master Registration 指南](freshman-guide/master-registration-guide.md)
+* [香港身份证办理指南](freshman-guide/hkid-application-guide.md)
 * [选课建议（各专业建议点击此处）](freshman-guide/course-selection/README.md)
   * [CC 选课指南](freshman-guide/course-selection/common-core-guide.md)
   * [RIC 选课平台指南](freshman-guide/course-selection/ric-course-platform.md)
-* [来港准备 and 来港生活](freshman-guide/preparation/README.md)
+* [来港准备 & 来港生活](freshman-guide/preparation/README.md)
   * [新生来港物品清单](freshman-guide/preparation/packing-list.md)
   * [交通指南汇总](freshman-guide/preparation/transportation-guide.md)
   * [信用卡小对比](freshman-guide/preparation/credit-card-comparison.md)
