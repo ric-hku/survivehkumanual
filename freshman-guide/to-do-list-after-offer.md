@@ -16,9 +16,9 @@ description: 入学重要事项办理时间线
 
 * 在系统中**接受 Offer**，并缴纳**留位费（Admission Deposit）**；
   * 官方教程（英文）：[How to Respond to Your HKU Offer of Admission](https://0ea19992-1e51-4ec5-bcea-01a7628a8588.filesusr.com/ugd/83c572_1ffe3bdc5cbd484485f999e21c504163.pdf)
-* 申请**入境许可（签证）**；
+* 申请[**入境许可（签证）**](visa/)；
   * 由于申请程序用时可能较长，建议**尽早**开始申请。
-* **（非本地生）**&#x9009;择、申请**宿舍。**
+* **（非本地生）**[**选择、申请宿舍**](hall-selection/)**。**
   * 由于宿位有限，建议**尽早**完成申请。
 {% endstep %}
 
@@ -26,10 +26,10 @@ description: 入学重要事项办理时间线
 ### 8 月上旬 – 中旬：
 
 * 收到 Welcome Email；根据其中要求，**依次**完成：
-  * （获得账号信息后）**Master Registration（主注册 / 正式注册）**；
-  * （完成 Master Registration 后）上传**学生证**所需文件；
-  * **（本地生）**&#x9009;择、申请**宿舍。**
-* 了解课程要求，初步安排课表；
+  * （获得账号信息后）[**Master Registration**](master-registration-guide.md)**（主注册 / 正式注册）**；
+  * （完成 Master Registration 后）**上传学生证所需文件**；
+  * **（本地生）**[**选择、申请宿舍**](hall-selection/)**。**
+* [**了解课程要求，初步安排课表**](course-selection/)；
 * （收到入境许可后）办理**港澳通行证**和/或**逗留（D）签注**；
 {% endstep %}
 
@@ -43,7 +43,7 @@ description: 入学重要事项办理时间线
 {% step %}
 ### 8 月末 – 9 月初：
 
-* 申请、办理**香港居民身份证（HKID）**；
+* 申请、办理[**香港居民身份证（HKID）**](hkid-application-guide.md)；
 * 领取**学生证**；
 * 办理八达通、电话卡、银行卡等。
 {% endstep %}
@@ -68,8 +68,12 @@ description: 入学重要事项办理时间线
 
 ***
 
-想要加入我们来一同为内地本科生维权益、谋福利嘛？快快关注我们的微信公众号「港大 RIC 锐克」吧！我们将在九月发布招新信息呦～
+想要加入 [RIC](ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **“港大 RIC 锐克”** 吧！我们将在九月发布招新信息哦～
 
-***
+本文作者：香港大学内地本科生权益保障组（RIC）。
 
-_Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_
+本文由原新生群文件《1.4拿到正式offer后要做什么》《1.5入学重要事项办理时间表》编写而成。
+
+最后更新于 2026 年 4 月 3 日。
+
+本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。
