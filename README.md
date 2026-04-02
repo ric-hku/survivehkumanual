@@ -41,7 +41,7 @@ description: 欢迎来到香港大学！
 
 《HKU 生存手册》网页版网址：[https://surviveinhku.gitbook.io/survivehkumanual](https://surviveinhku.gitbook.io/survivehkumanual)
 
-或者，你也可以在我们 RIC 的官网 “RIC 杂货铺” 上，点击 “新生专栏” 查看：[https://richku.com/freshmen](https://richku.com/freshmen)
+或者，你也可以在我们 RIC 的官网 **“RIC 杂货铺”** 上，点击 **“新生专栏”** 查看：[https://richku.com/freshmen](https://richku.com/freshmen)
 
 ## 最后……来听首歌吧！
 
@@ -58,7 +58,7 @@ description: 欢迎来到香港大学！
 > 　　　许廷铿（BDS 2012）\
 > 　　　”明我以德“ 合唱团（香港大学学生）\
 > \
-> 路　前人踏过　用见识为我点灯\
+> 路　前人踏过　用见识　为我点灯\
 > 学养光照了灵魂\
 > 学会致知格物怀疑发问\
 > 时代在变　未变的　是我的根\

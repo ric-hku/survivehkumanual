@@ -7,6 +7,7 @@
 
 * [RIC 介绍](freshman-guide/ric-intro/README.md)
   * [RIC 使用指南](freshman-guide/ric-intro/ric-guide.md)
+* [拿到正式 Offer 后要做什么](freshman-guide/to-do-list-after-offer.md)
 * [新生必读](freshman-guide/must-read/README.md)
   * [入学重要事项办理时间表](freshman-guide/must-read/timeline.md)
   * [拿到正式 Offer 后要做什么](freshman-guide/must-read/post-offer-guide.md)
@@ -17,7 +18,7 @@
   * [Online Visa Application 的正确打开方式](freshman-guide/visa/online-visa-application-tips.md)
   * [Letter of Guardian Nomination 填写指南](freshman-guide/visa/guardian-nomination-guide.md)
   * [ID995A 表格填写指南](freshman-guide/visa/id995a-guide.md)
-* [选hall指南](freshman-guide/hall-selection/README.md)
+* [宿舍选择、申请指南](freshman-guide/hall-selection/README.md)
   * [选 Hall 综合指南](freshman-guide/hall-selection/comprehensive-hall-guide.md)
   * [Hall Charges](freshman-guide/hall-selection/hall-charges.md)
   * [各 hall 详细介绍](freshman-guide/hall-selection/hall-details.md)
