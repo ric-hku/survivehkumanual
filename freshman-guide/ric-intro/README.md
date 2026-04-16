@@ -90,6 +90,8 @@ description: RIC 欢迎你的加入！
 
 最后更新于 2026 年 4 月 3 日。
 
+> _让无力者有力，让悲观者前行。_
+
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。
 
 <br>
