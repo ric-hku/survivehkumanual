@@ -20,7 +20,7 @@ description: 欢迎来到香港大学！
 
 大部分新生需要的信息，都能在这里找到。这里的内容包括但不限于：
 
-* [拿到正式 Offer 后要做什么](freshman-guide/must-read/post-offer-guide.md)
+* [拿到正式 Offer 后要做什么](freshman-guide/to-do-list.md)
 * [签证办理指南](freshman-guide/visa/)
 * [申请宿舍指南](freshman-guide/hall-selection/)
 * [Master Registration 指南](freshman-guide/master-registration-guide.md)

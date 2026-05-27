@@ -1,4 +1,8 @@
-# 选hall指南
+---
+description: 大学生活的第一件大事。
+---
+
+# 宿舍选择、申请指南
 
 > 这是你大学生活的第一件大事。
 >
@@ -7,3 +11,4 @@
 ***
 
 _Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_
+
