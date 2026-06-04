@@ -37,7 +37,7 @@ description: 入学重要事项办理时间线
 ### 8 月下旬：
 
 * **正式选课**；
-* 参加**迎新营（Orientation Camp，O Camp）**&#x7B49;迎新活动。
+* 参加**迎新营（Orientation Camp）**&#x7B49;迎新活动。
 {% endstep %}
 
 {% step %}
