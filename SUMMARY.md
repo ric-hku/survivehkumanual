@@ -51,4 +51,7 @@
 * [校园生活](daily-life/campus-life.md)
 * [娱乐](daily-life/entertainment.md)
 * [学业](daily-life/academics.md)
+<<<<<<< HEAD
+>>>>>>> parent of 1251290 (GITBOOK-117: No subject)
+=======
 >>>>>>> parent of 1251290 (GITBOOK-117: No subject)
