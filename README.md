@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 ---
 description: 欢迎来到香港大学！
 ---
@@ -12,13 +10,13 @@ description: 欢迎来到香港大学！
 
 相信你关于港大生活的大部分问题，在这里都能得到解答！
 
-## **《HKU 生存手册》**&#x662F;什么？
+### **《HKU 生存手册》**&#x662F;什么？
 
 **《HKU 生存手册》（Survive in HKU Manual）**，源于[**香港大学内地本科生权益保障组（RIC）**](freshman-guide/ric-intro/)每年为新生们制作的**新生群文件**。十余年来，历届 RIC 庄友不断对新生群文件推陈出新、添砖加瓦，帮助着一届届同学们。
 
 为了方便查看、更新和传播，RIC 在 2026 年决定将这些文件上传至 GitBook。于是，《HKU 生存手册》网页版便诞生了。
 
-## 在这里能找到什么？
+### 在这里能找到什么？
 
 大部分新生需要的信息，都能在这里找到。这里的内容包括但不限于：
 
@@ -38,13 +36,13 @@ description: 欢迎来到香港大学！
 * [日常娱乐（吃饭、旅游等）](daily-life/entertainment.md)
 * [学业相关（转专业、交换、Gap/Defer 等）](daily-life/academics.md)
 
-## **在哪里可以找到《HKU 生存手册》？**
+### **在哪里可以找到《HKU 生存手册》？**
 
 《HKU 生存手册》网页版网址：[https://surviveinhku.gitbook.io/survivehkumanual](https://surviveinhku.gitbook.io/survivehkumanual)
 
 或者，你也可以在我们 RIC 的官网 **“RIC 杂货铺”** 上，点击 **“新生专栏”** 查看：[https://richku.com/freshmen](https://richku.com/freshmen)
 
-## 最后……来听首歌吧！
+### 最后……来听首歌吧！
 
 [香港大学百周年校庆主题曲 Brighten Me with Virtues《明我以德》\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1n741157r2)
 
@@ -94,5 +92,5 @@ description: 欢迎来到香港大学！
 > 持续发光发热\
 > 广大学识彰显我校训\
 > 风大浪急不改我校训
->>>>>>> parent of 1251290 (GITBOOK-117: No subject)
-
+>
+> > > > > > > parent of 1251290 (GITBOOK-117: No subject)

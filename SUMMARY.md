@@ -1,8 +1,6 @@
 # Table of contents
 
-<<<<<<< HEAD
-* [Page](README.md)
-=======
+* [首页](README.md)
 * [首页](README.md)
   * [更新日志](readme/readme-1.md)
 
@@ -51,7 +49,3 @@
 * [校园生活](daily-life/campus-life.md)
 * [娱乐](daily-life/entertainment.md)
 * [学业](daily-life/academics.md)
-<<<<<<< HEAD
->>>>>>> parent of 1251290 (GITBOOK-117: No subject)
-=======
->>>>>>> parent of 1251290 (GITBOOK-117: No subject)
